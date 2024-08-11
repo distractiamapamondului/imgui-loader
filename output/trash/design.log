@@ -1,0 +1,205 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+  imgui.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+  imgui_custom.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+  imgui_demo.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+  imgui_draw.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+  imgui_impl_dx9.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+  imgui_impl_win32.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+  imgui_stdlib.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+  imgui_tables.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+  imgui_widgets.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+  Vector.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\Vector.cpp(81,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\Vector.cpp(84,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\Vector.cpp(84,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\menu\menu.hpp(22,63): warning C4229: anachronism used: modifiers on data are ignored
+  menu.cpp
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\Inject\injectSK.hpp(23,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1324,22): warning C4244: 'initializing': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1772,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(1794,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2079,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2875,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(2893,18): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\imgui\imspinner.h(3781,202): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\menu\menu.hpp(22,63): warning C4229: anachronism used: modifiers on data are ignored
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\menu\custom.hpp(34,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(32,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(45,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(58,30): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(71,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(71,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(71,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(74,130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(74,122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(74,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(74,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(77,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(77,108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(77,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(80,144): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(80,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(80,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\ext\particle\AnimVector.h(80,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\menu\menu.cpp(13,92): warning C4229: anachronism used: modifiers on data are ignored
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\menu\menu.cpp(98,41): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\menu\menu.cpp(98,31): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\menu\menu.cpp(254,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gagge\Downloads\777bypass\777bypass\design\src\menu\menu.cpp(254,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  4 of 2111 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    20 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  design.vcxproj -> C:\Users\gagge\Downloads\777bypass\777bypass\output\release\design.exe
